@@ -2,7 +2,7 @@
 Welcome to the Mind & Body repository! 
 Mind & Body is an XR (Extended Reality) meditation project designed to contribute to the Sustainable Games Meditation collection, in alignment with UN Sustainable Development Goal 3: Good Health and Well-being.
 
-#Overview
+# Overview
 Mind & Body offers an immersive 3D Meditation Space built using Blender, a powerful open-source 3D creation suite. This project aims to improve physical and mental well-being by providing users with a virtual environment that combines meditation practices with fitness routines. By leveraging XR technology, Mind & Body offers a unique and immersive experience that helps users connect with their mind and body in a more profound way.
 
 # Features
